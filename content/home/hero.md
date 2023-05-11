@@ -2,13 +2,13 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
-hero_media: teacher.png
+title: Corso di R per i tecnici apistici Unaapi
+hero_media: unaapi.jpg
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
+    gradient_start: 'rgb(255,255,255)'
+    gradient_end: 'rgb(255,255,255)'
     text_color_light: false
 cta:
   url: '#courses'
