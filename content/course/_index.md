@@ -4,9 +4,9 @@ banner:
   image: ""
 tags:
 - preface
-title: "\U0001F4DA Courses"
+title: "\U0001F4DA Corsi"
 type: page
 view: compact
 ---
 
-Explore our courses below and expand your knowledge!
+Materiale riguardante i corsi

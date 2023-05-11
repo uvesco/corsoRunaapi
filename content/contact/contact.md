@@ -5,9 +5,13 @@ content:
   contact_links:
   - icon: comments
     icon_pack: fas
+    link: https://groups.google.com/g/corso-r-unaapi
+    name: Archivio della mailing list Google
+  - icon: comments
+    icon_pack: fas
     link: https://github.com/uvesco/corsoRunaapi/discussions
-    name: Discutere sul forum github
-  email: test@example.org
+    name: Forum Github
+  email: corso-r-unaapi@googlegroups.com
   # form:
   #   formspree:
   #     id: null
@@ -23,4 +27,6 @@ weight: 10
 widget: contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Per la comunicazione abbiamo predisposto una mailing list Google su cui scrivere per scambiare aiuto, condividere materiali e per le comunicazioni di servizio.<br>
+E' anche disponibile il forum collegato al codice sorgente di questo sito per la condivisione di materiali di interesse collettivo.<br>
+A seguire i links

@@ -14,12 +14,13 @@ education:
 email: ""
 highlight_name: false
 interests:
+- Apicoltura
 - Sanità animale
 - Conservazione della fauna
 - Analisi dei dati
 organizations:
 - name: Unaapi
-  url: ""
+  url: "https://unaapi.it/"
 role: Docente R
 social:
 - icon: facebook
