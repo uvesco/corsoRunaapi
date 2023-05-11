@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: custom
+  theme_day: minimal
   theme_night:
   font: minimal
   font_size: L
@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo learning theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Sito di supporto al corso di introduzione a R per i tecnici apistici Unaapi'
+    twitter: 'uw_79'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Unaapi. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -67,13 +67,13 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/starter-hugo-online-course'
+    url: 'https://github.com/uvesco/corsoRunaapi/'
     content_dir: content
     branch: main
   comment:
     provider: ''
     disqus:
-      shortname: ''
+      shortname: 'corsorunaapi'
       show_count: true
     commento:
       url: ''
@@ -83,7 +83,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: unaapi
     algolia:
       app_id: ''
       api_key: ''

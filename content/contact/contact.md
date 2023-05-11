@@ -1,24 +1,24 @@
 ---
 content:
-  appointment_url: https://calendly.com
+  # appointment_url: https://calendly.com
   autolink: true
   contact_links:
   - icon: comments
     icon_pack: fas
-    link: https://github.com/wowchemy/wowchemy-hugo-themes/discussions
-    name: Discuss on the forum
+    link: https://github.com/uvesco/corsoRunaapi/discussions
+    name: Discutere sul forum github
   email: test@example.org
-  form:
-    formspree:
-      id: null
-    netlify:
-      captcha: false
-    provider: netlify
+  # form:
+  #   formspree:
+  #     id: null
+  #   netlify:
+  #     captcha: false
+  #   provider: netlify
 design:
   columns: "1"
 headless: true
 subtitle: null
-title: Contact
+title: Contatti
 weight: 10
 widget: contact
 ---

@@ -1,6 +1,6 @@
 ---
 authors:
-- 吳恩達
+- Livilla Maggi
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
@@ -34,7 +34,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: false
-title: 吳恩達
+title: Livilla Maggi
 user_groups:
 - Teachers
 ---
