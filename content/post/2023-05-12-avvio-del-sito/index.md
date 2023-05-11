@@ -19,3 +19,4 @@ projects: []
 
 Con questo post avviamo il sito, che servirà a raccogliere il materiale che verrà prodotto nel corso dello sviluppo del corso.<br>
 La proposta è di proseguire, ciascuno con il proprio passo, nell'esecuzione di alcuni tutorial swirl e nello svolgimento di analisi con dati reali.
+
