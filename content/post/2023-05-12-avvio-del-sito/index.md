@@ -9,7 +9,7 @@ subtitle: ''
 summary: ''
 authors: [admin, livilla]
 lastmod: '2023-05-12T00:26:40+02:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
