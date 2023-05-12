@@ -1,6 +1,7 @@
 ---
 date: "2023-12-05"
 title: Primo post
+output: blogdown::html_page
 ---
 
 Primo post
