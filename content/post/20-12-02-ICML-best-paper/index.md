@@ -1,6 +1,6 @@
 ---
 title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-author: admin
+author: 'Umberto Vesco'
 date: '2023-05-14'
 ---
 
