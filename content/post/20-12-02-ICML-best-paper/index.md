@@ -1,5 +1,5 @@
 ---
-date: "2023-12-02"
+date: "2023-05-15"
 title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
 ---
 
