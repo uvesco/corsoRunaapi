@@ -1,6 +1,6 @@
 ---
 date: "2023-12-05"
-title: 'Primo post'
+title: "Primo post"
 output: blogdown::html_page
 ---
 
