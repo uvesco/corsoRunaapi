@@ -9,7 +9,7 @@ subtitle: ''
 summary: ''
 authors: []
 lastmod: '2023-05-15T00:14:04+02:00'
-featured: no
+featured: yes
 draft: no
 image:
   caption: ''
