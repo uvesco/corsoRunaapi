@@ -7,7 +7,7 @@ categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: []
+authors: 'Umberto Vesco'
 lastmod: '2023-05-15T00:35:08+02:00'
 featured: yes
 draft: no
