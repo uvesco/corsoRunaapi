@@ -1,8 +1,8 @@
 ---
-title: Secondo post
+title: terzo post
 author: admin
 date: '2023-05-15'
-slug: secondo-post
+slug: terzo-post
 categories: []
 tags: []
 subtitle: ''
