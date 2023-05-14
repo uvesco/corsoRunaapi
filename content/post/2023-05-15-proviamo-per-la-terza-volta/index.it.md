@@ -1,13 +1,14 @@
 ---
-title: Proviamo per la terza volta
-date: '2023-05-13'
-slug: proviamo-per-la-terza-volta
+title: Secondo post
+author: admin
+date: '2023-05-15'
+slug: secondo-post
 categories: []
 tags: []
 subtitle: ''
 summary: ''
-authors: 'Umberto Vesco'
-lastmod: '2023-05-15T00:35:08+02:00'
+authors: []
+lastmod: '2023-05-15T00:19:04+02:00'
 featured: yes
 draft: no
 image:
@@ -17,6 +18,6 @@ image:
 projects: []
 ---
 
-# Proviamo un po'
+# Proviamo un po
 
 Ecco il testo e vediamo se funziona
