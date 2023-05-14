@@ -1,6 +1,6 @@
 ---
 title: terzo post
-author: Umberto Vesco
+author: 'Umberto Vesco'
 date: '2023-05-14'
 slug: terzo-post
 lastmod: '2023-05-15T00:19:04+02:00'
