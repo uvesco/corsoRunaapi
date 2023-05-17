@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Unaapi
   url: "https://unaapi.it/"
-role: Docente R
+role: Docente corso R
 social:
 - icon: facebook
   icon_pack: fab

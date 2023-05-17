@@ -17,7 +17,7 @@ interests:
 organizations:
 - name: Apilombardia
   url: "https://www.apilombardia.it/"
-role: Docente R
+role: Docente corso R
 social:
 # - icon: envelope
 #   icon_pack: fas
