@@ -3,13 +3,13 @@ date: "2023-05-17"
 highlight: true
 draft: false
 tags:
-- swirl
-title: Links a materiale utile
+- links
+title: Links esterni
 type: book
 weight: 40
 ---
 
-Links a materiale utile
+Links esterni a materiale utile
 
 <!--more-->
 
@@ -17,7 +17,7 @@ Links a materiale utile
 
 ## Materiali utili
 
-In questa pagina raccogliamo materiali supplementari utili per l'approfondimento.
+In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'approfondimento.
 
 ### Generali
 

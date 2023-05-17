@@ -17,3 +17,6 @@ Scopo del sito
 <!--more-->
 
 Scopo di questo sito è raccogliere in un unico luogo facilmente accessibile tutte le informazioni relative al corso: materiali didattici, approfondimenti, informazioni organizzative e per la comunicazione.
+<br>
+<br>
+Aprofitto di questo primo post per segnalarvi la pubblicazione di una [pagina](../../course/corso-intro-r/altre_risorse/) che raccoglie links a risorse utili esterne.
