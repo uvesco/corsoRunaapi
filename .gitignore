@@ -4,6 +4,7 @@
 .Ruserdata
 .DS_Store
 Thumbs.db
-/public
-/resources
+.hugo_build.lock
+/public/
+/resources/
 appunti.txt
