@@ -26,6 +26,10 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 * [CRAN Contributed Documentation](https://cran.r-project.org/other-docs.html)
 * [CRAN Task Views](https://cran.r-project.org/web/views/)
 
+### Libri generali
+
+* [Una introduzione a R](http://datascience.maths.unitn.it/events/ips2021/R/index.html)
+
 ### Tutorials
 
 * [learnr](https://rstudio.github.io/learnr/): pacchetto apprendimento utilizzabile in RStudio [tab Tutorial in alto a destra]
