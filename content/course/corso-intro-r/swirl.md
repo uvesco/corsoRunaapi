@@ -67,7 +67,11 @@ swirl()
 
 All'ingresso in swirl viene richiesto un nome utente arbitrario che serve a recuperare, immettento in seguilo lo stesso, la sessione di lavoro dal punto in cui si era interrotto.
 
+### Uscire da swirl
+
 Ci sono diversi modi per uscire da swirl: digitando `bye()` mentre si è nella console R, premendo il tasto ESC quando non si è nella console R, oppure digitando 0 dal menu del corso di swirl. swirl stamperà un messaggio di uscita.
+
+### Comandi speciali swirl
 
 Mentre swirl è in funzione, può essere controllato immettendo comandi speciali nella console R. Uno dei comandi speciali è `bye()`, come discusso sopra. Altri sono `play()`, `nxt()`, `skip()` e `info()`. Le parentesi sono importanti.
 
