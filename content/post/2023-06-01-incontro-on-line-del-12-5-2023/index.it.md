@@ -9,7 +9,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-draft: true
+draft: false
 editor_options: 
   markdown: 
     wrap: 72
@@ -58,9 +58,9 @@ approfondimento aggiuntivi.
 ## Sviluppo del protocollo sperimentale
 
 La presentazione, disponibile in formato
-[PDF](../../course/corso-intro-r/met_dis_sperimentale.pdf), riguarda lo sviluppo e la
-pianificazione del protocollo sperimentale (stesura del protocollo e
-successiva applicazione del disegno sperimentale).
+[PDF](../../course/corso-intro-r/met_dis_sperimentale.pdf), riguarda lo
+sviluppo e la pianificazione del protocollo sperimentale (stesura del
+protocollo e successiva applicazione del disegno sperimentale).
 
 La prima parte della presentazione tratta il concetto di metodo
 sperimentale e disegno sperimentale, focalizzandosi anche sugli errori
@@ -68,7 +68,9 @@ comuni da evitare. Successivamente, nella seconda parte, viene
 approfondito il tema riguardante la corretta stesura del protocollo.
 
 La trattazione approfondisce le diverse sezioni di cui deve essere
-costituito il protocollo.
+costituito il protocollo. Per approfondire si consiglia la lettura del
+capitolo 5 del libro "[A practical guide for health
+researchers](https://apps.who.int/iris/handle/10665/119703)".
 
 ## Incontro finale in presenza
 
