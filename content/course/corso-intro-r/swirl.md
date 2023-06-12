@@ -42,7 +42,7 @@ install_course_github("uvesco", "R-base-course-in-Italian")
 Per aggiornare il corso all'ultima versione presente su [GitHub](https://github.com/uvesco/R-base-course-in-Italian/) si può eseguire il seguente codice:
 
 ``` r
-# carica il pacchetto swirl dal repository CRAN
+# carica il pacchetto swirl
 library(swirl)
 # disinstalla il corso se già installato
 uninstall_course("R-base-course-in-Italian")
@@ -51,6 +51,31 @@ install_course_github("uvesco", "R-base-course-in-Italian")
 ```
 
 E' prevista l'aggiunta di nuovi contenuti al corso e la correzione di bugs.
+
+## Utilizzo di swirl
+
+### Entrare in swirl
+
+Si entra in swirl caricando il pacchetto swirl e dando il comando swirl
+
+``` r
+# carica il pacchetto swirl
+library(swirl)
+# avvia swirl
+swirl()
+```
+
+All'ingresso in swirl viene richiesto un nome utente arbitrario che serve a recuperare, immettento in seguilo lo stesso, la sessione di lavoro dal punto in cui si era interrotto.
+
+Ci sono diversi modi per uscire da swirl: digitando `bye()` mentre si è nella console R, premendo il tasto ESC quando non si è nella console R, oppure digitando 0 dal menu del corso di swirl. swirl stamperà un messaggio di uscita.
+
+Mentre swirl è in funzione, può essere controllato immettendo comandi speciali nella console R. Uno dei comandi speciali è `bye()`, come discusso sopra. Altri sono `play()`, `nxt()`, `skip()` e `info()`. Le parentesi sono importanti.
+
+A volte l'utente vuole sperimentare nella console R senza interferenze o commenti da parte di swirl. Questo si può ottenere usando il comando speciale `play()`. swirl rimarrà in funzione, in silenzio, fino a quando non verrà digitato il comando speciale `nxt()`.
+
+Il comando speciale `skip()` può essere usato per saltare una domanda, se necessario. swirl inserirà la risposta corretta e notificherà all'utente i nomi delle nuove variabili eventualmente create. Queste possono essere necessarie per le domande successive.
+
+Infine, `info()` può essere utilizzato per visualizzare un elenco dei comandi speciali con una breve spiegazione delle loro funzioni.
 
 ## Segnalare bugs
 
