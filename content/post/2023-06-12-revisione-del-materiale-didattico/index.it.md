@@ -1,5 +1,5 @@
 ---
-title: Revisione del materiale didattico
+title: Revisione dei tutorial swirl
 author: admin
 date: '2023-06-12'
 slug: revisione-del-materiale-didattico
@@ -20,6 +20,8 @@ Abbiamo provveduto a rivedere i tutorial swirl e vi consigliamo un testo di base
 ## Revisione dei tutorial swirl
 
 Abbiamo rinominato le lezioni e le singole domande inserendo una numerazione progressiva e abbiamo risolto i bugs che impedivano l'avvio delle lezioni 9, 11, 12 e 13.
+
+Provvederemo prossimamente a predisporre alcune lezioni extra sugli argomenti mancanti previsti dal programma.
 
 Ricordiamo che le lezioni swirl devono essere aggiornate all'ultima versione per risolvere i bugs secondo la procedura riportata nella [pagina dedicata](../../course/corso-intro-r/swirl/).
 
