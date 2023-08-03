@@ -26,13 +26,15 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 -   [CRAN Contributed Documentation](https://cran.r-project.org/other-docs.html)
 -   [CRAN Task Views](https://cran.r-project.org/web/views/)
 
-### Libri generali
+### Libri e wiki generali
 
 -   [Una introduzione a R](http://datascience.maths.unitn.it/events/ips2021/R/index.html)
+-   [Ricerca Sociale con R - Una wiki per l'analisi dei dati con R](https://www.agnesevardanega.eu/wiki/r/start)
+
 
 ### Tutorials
 
--   [learnr](https://rstudio.github.io/learnr/): pacchetto apprendimento utilizzabile in RStudio \[tab Tutorial in alto a destra\]
+-   [learnr](https://rstudio.github.io/learnr/): pacchetto per l'apprendimento utilizzabile in RStudio \[tab Tutorial in alto a destra\]
 -   [w3schools R Tutorial](https://www.w3schools.com/r/)
 -   [Geeksforgeeks R Tutorial](https://www.geeksforgeeks.org/r-tutorial/)
 
