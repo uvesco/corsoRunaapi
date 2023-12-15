@@ -31,6 +31,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 * [learnr](https://rstudio.github.io/learnr/): pacchetto apprendimento utilizzabile in RStudio [tab Tutorial in alto a destra]
 * [w3schools R Tutorial](https://www.w3schools.com/r/)
 * [Geeksforgeeks R Tutorial](https://www.geeksforgeeks.org/r-tutorial/)
+* [Getting Started With R](https://rpubs.com/nickbearman/gettingstartedwithr)
 
 ### Corsi Mooc
 
@@ -63,3 +64,8 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 ### Altri links
 
 * [Links di Statistica e grafica con R](https://impararfacendo.blogspot.com/p/link.html)
+
+### Uso di R con dati spaziali
+
+* [Introduction to Spatial Data & Using R as a GIS](https://github.com/nickbearman/intro-r-spatial-analysis)
+
