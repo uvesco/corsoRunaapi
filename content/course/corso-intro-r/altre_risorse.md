@@ -29,6 +29,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 ### Libri e wiki generali
 
 -   [Una introduzione a R](http://datascience.maths.unitn.it/events/ips2021/R/index.html)
+-   [An Introduction to R](https://intro2r.com/)
 -   [Ricerca Sociale con R - Una wiki per l'analisi dei dati con R](https://www.agnesevardanega.eu/wiki/r/start)
 
 
