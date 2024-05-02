@@ -32,6 +32,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 -   [An Introduction to R](https://intro2r.com/)
 -   [Ricerca Sociale con R - Una wiki per l'analisi dei dati con R](https://www.agnesevardanega.eu/wiki/r/start)
 -   [Efficient R programming](https://bookdown.org/csgillespie/efficientR/)
+-   [R for Epidemiology](https://www.r4epi.com/)
 
 
 ### Tutorials
