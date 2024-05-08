@@ -76,12 +76,17 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 ### Altri links
 
 * [Links di Statistica e grafica con R](https://impararfacendo.blogspot.com/p/link.html)
+* [Bookdown](https://bookdown.org/)
 
 ### Uso di R con dati spaziali
 
 * [Introduction to Spatial Data & Using R as a GIS](https://github.com/nickbearman/intro-r-spatial-analysis)
+* [Geocomputation with R](https://r.geocompx.org/)
 
 ### Git e Github
 
 -   [Github actions with R](https://orchid00.github.io/actions_sandbox/)
 
+### Markdown
+
+-   [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
