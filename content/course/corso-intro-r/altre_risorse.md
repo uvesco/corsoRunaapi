@@ -34,7 +34,9 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 -   [Efficient R programming](https://bookdown.org/csgillespie/efficientR/)
 -   [R for Epidemiology](https://www.r4epi.com/)
 -   [R for Data Science (2e)](https://r4ds.hadley.nz/)
-
+-   [Advanced R](http://adv-r.hadley.nz/)
+-   [R packages](http://r-pkgs.org/)
+-   [Advanced R](https://ggplot2-book.org/)
 
 ### Tutorials
 
