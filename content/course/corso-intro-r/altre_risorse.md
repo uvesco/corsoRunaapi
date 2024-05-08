@@ -36,7 +36,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 -   [R for Data Science (2e)](https://r4ds.hadley.nz/)
 -   [Advanced R](http://adv-r.hadley.nz/)
 -   [R packages](http://r-pkgs.org/)
--   [Advanced R](https://ggplot2-book.org/)
+-   [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/)
 
 ### Tutorials
 
