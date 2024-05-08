@@ -77,3 +77,8 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 ### Uso di R con dati spaziali
 
 * [Introduction to Spatial Data & Using R as a GIS](https://github.com/nickbearman/intro-r-spatial-analysis)
+
+### Git e Github
+
+-   [Github actions with R](https://orchid00.github.io/actions_sandbox/)
+
