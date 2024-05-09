@@ -137,8 +137,9 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 
 ### Reproducible research: Markdown, Git e Github
 
--   [https://m-clark.github.io/Introduction-to-Rmarkdown/](https://m-clark.github.io/Introduction-to-Rmarkdown/)
 -   [Github actions with R](https://orchid00.github.io/actions_sandbox/)
+-   [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+-   [Introduction to R Markdown](https://m-clark.github.io/Introduction-to-Rmarkdown/)
 -   [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 -   [Writing papers with R and friends](https://bookdown.org/content/43652694-3819-41d2-9e70-8cfc8dd25fd1/)
 -   [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
