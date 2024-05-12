@@ -151,6 +151,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 
 -   [How to Build a Shiny Application from Scratch](https://bookdown.org/hadrien/how_to_build_a_shiny_app_from_scratch/)
 -   [Shiny Tutorial](https://bookdown.org/weicheng/shinyTutorial/)
+-   [Mastering shiny](https://mastering-shiny.org/)
 
 
 
