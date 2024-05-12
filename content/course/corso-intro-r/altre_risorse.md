@@ -162,6 +162,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 
 ### Tutorials
 
+* [IcebreakeR](https://www.gastonsanchez.com/R-ice-breaker/)
 * [learnr](https://rstudio.github.io/learnr/): pacchetto apprendimento utilizzabile in RStudio [tab Tutorial in alto a destra]
 * [w3schools R Tutorial](https://www.w3schools.com/r/)
 * [Geeksforgeeks R Tutorial](https://www.geeksforgeeks.org/r-tutorial/)
