@@ -113,6 +113,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 -   [R packages](http://r-pkgs.org/)
 -   [Coding in R](https://bookdown.org/mpfoley1973/coding/)
 -   [Best Coding Practices for R](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
+-   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
 ### Tidyverse
 
