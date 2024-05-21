@@ -169,6 +169,8 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 * [w3schools R Tutorial](https://www.w3schools.com/r/)
 * [Geeksforgeeks R Tutorial](https://www.geeksforgeeks.org/r-tutorial/)
 * [Getting Started With R](https://rpubs.com/nickbearman/gettingstartedwithr)
+* [UC Davis R Basics](https://ucdavisdatalab.github.io/workshop_r_basics/)
+* [UC Davis Intermediate R ](https://ucdavisdatalab.github.io/workshop_intermediate_r/)
 
 ### Corsi Mooc
 
