@@ -132,6 +132,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 * [R for Geospatial Processing](https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/)
 * [Spatial Data Science with R and “terra”](https://rspatial.org/)
 * [Earth Analytics Course: Learn Data Science](https://www.earthdatascience.org/courses/earth-analytics/)
+* [INBO Tutorials](https://inbo.github.io/tutorials/)
 * [Introduction to Geographic Information System](https://bookdown.org/tep/gis/) _(buona introduzione, non R)_
 
 ### Database
@@ -205,6 +206,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 ### Riviste
 
 -   [The R Journal](https://journal.r-project.org/)
+-   [RWeekly.org](https://rweekly.org/)
 
 ### Altri links
 
