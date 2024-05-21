@@ -131,6 +131,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 * [Guide to Creating Interactive Maps in R](https://bookdown.org/eneminef/DRR_Bookdown/)
 * [R for Geospatial Processing](https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/)
 * [Spatial Data Science with R and “terra”](https://rspatial.org/)
+* [Earth Analytics Course: Learn Data Science](https://www.earthdatascience.org/courses/earth-analytics/)
 * [Introduction to Geographic Information System](https://bookdown.org/tep/gis/) _(buona introduzione, non R)_
 
 ### Database
