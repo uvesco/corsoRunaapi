@@ -133,6 +133,7 @@ In questa pagina raccogliamo collegamenti a materiali supplementari utili per l'
 * [Spatial Data Science with R and “terra”](https://rspatial.org/)
 * [Earth Analytics Course: Learn Data Science](https://www.earthdatascience.org/courses/earth-analytics/)
 * [INBO Tutorials](https://inbo.github.io/tutorials/)
+* [rspatialdata](https://rspatialdata.github.io/) _(a collection of data sources and tutorials on visualising spatial data using R)_
 * [Introduction to Geographic Information System](https://bookdown.org/tep/gis/) _(buona introduzione, non R)_
 
 ### Database
